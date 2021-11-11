@@ -1,5 +1,5 @@
 # it5007tut6
-IT5007 tutorial 6
+
 president is apolloclient folder;
 api is the server folder, port 5000.
 
