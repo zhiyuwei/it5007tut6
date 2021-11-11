@@ -1,0 +1,25 @@
+{
+    "name": "it5007-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "nodemon -e js,graphql server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "apollo-server-express": "^2.25.2",
+      "express": "^4.17.1",
+      "graphql": "^0.13.2",
+      "mongo": "^0.1.0",
+      "mongodb": "^3.7.3"
+    },
+    "devDependencies": {
+      "@babel/cli": "^7.15.7",
+      "@babel/core": "^7.15.8",
+      "@babel/preset-react": "^7.14.5"
+    }
+  }
+  
